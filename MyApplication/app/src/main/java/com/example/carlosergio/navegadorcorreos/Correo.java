@@ -20,9 +20,14 @@ public class Correo
         return de;
     }
 
+    public void setDe(String d){
+        de = d;
+    }
     public String getAsunto(){
         return asunto;
     }
+
+
 
     public String getTexto(){
         return texto;

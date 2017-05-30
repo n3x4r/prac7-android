@@ -5,5 +5,8 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
 
-
+    <string name="menu_conceptual1">Mostrar Toast item menu</string>
+    <string name="menu_conceptual2">Mostrar Toast item ListView</string>
+    <string name="uppercase">uppercase Title</string>
+    <string name="select_menu1">Opcion Contextual %d Pulsada</string>
 </resources>
